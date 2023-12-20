@@ -23,13 +23,11 @@
 
 ## Which parts of the Spark ecosystem, or any other tools, you anticipate using to study it ## 
 - I want to use spark to load in and group the data.  Once the data is formatted and aggregated I may use some data science workflows from DATASCI-530A to derive some visualizations
-- 
 - This may involve translating the data from spark dataframes to pandas or handling that handoff, I have not ever done that before.
 
 ## Questions and areas of exploration you plan to undertake ##
 - I want to format the data for time series analysis to understand when machines go outside certain performance thresholds and result in a business impact.
 - I am looking into grouping data into percentiles per sequences (maybe hourly or 15).
-- I also want to see if I can create these thresholds in code.
 - My hope as I have just started a role in Site Reliability Engineering, I can use this to exercise to learn techniques I can use on the job.
 - The Kaggle description calls out that some or all of workloads running on these VMs are related to financial transactions that have closing periods with increased usage.
   - Hopefully I can illustrate these events in the data analysis.

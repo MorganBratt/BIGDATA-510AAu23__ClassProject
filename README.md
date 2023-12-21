@@ -39,8 +39,8 @@
 # Presentation #
 My goal is to present using the notebooks themselves, documented through markdown cells.  The following sections are available in offline copy below:
 
-[1) Data Prep]()  
-[2) Data Exploration]()  
-[3) Time Series Analysis]()   
-[4) Peformance Footprint]()  
+[1) Data Prep](https://morganbratt.github.io/BIGDATA-510AAu23__ClassProject/Data%20Prep.html)  
+[2) Data Exploration](https://morganbratt.github.io/BIGDATA-510AAu23__ClassProject/Data%20Exploration.html)  
+[3) Time Series Analysis](https://morganbratt.github.io/BIGDATA-510AAu23__ClassProject/Time%20Series%20Analysis.html)   
+[4) Peformance Footprint](https://morganbratt.github.io/BIGDATA-510AAu23__ClassProject/Next%20Steps.html)  
 [5) Next Steps]()

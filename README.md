@@ -32,7 +32,15 @@
 - The Kaggle description calls out that some or all of workloads running on these VMs are related to financial transactions that have closing periods with increased usage.
   - Hopefully I can illustrate these events in the data analysis.
 
+***
+***
+***
 
+# Presentation #
+My goal is to present using the notebooks themselves, documented through markdown cells.  The following sections are available in offline copy below:
 
-
-
+[1) Data Prep]()  
+[2) Data Exploration]()  
+[3) Time Series Analysis]()   
+[4) Peformance Footprint]()  
+[5) Next Steps]()

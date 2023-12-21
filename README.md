@@ -42,5 +42,5 @@ My goal is to present using the notebooks themselves, documented through markdow
 [1) Data Prep](https://morganbratt.github.io/BIGDATA-510AAu23__ClassProject/Data%20Prep.html)  
 [2) Data Exploration](https://morganbratt.github.io/BIGDATA-510AAu23__ClassProject/Data%20Exploration.html)  
 [3) Time Series Analysis](https://morganbratt.github.io/BIGDATA-510AAu23__ClassProject/Time%20Series%20Analysis.html)   
-[4) Peformance Footprint](https://morganbratt.github.io/BIGDATA-510AAu23__ClassProject/Next%20Steps.html)  
-[5) Next Steps]()
+[4) Performance Footprint](https://morganbratt.github.io/BIGDATA-510AAu23__ClassProject/Performance%20Footprint.html)  
+[5) Next Steps](https://morganbratt.github.io/BIGDATA-510AAu23__ClassProject/Next%20Steps.html)

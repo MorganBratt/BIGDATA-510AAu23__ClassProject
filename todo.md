@@ -1,0 +1,8 @@
+- Replace the index page
+- Add in the kmeans section
+- rework the readme.md and save off the proposal
+- replace the proposal inks
+- add in the acknowledgements for the data
+- rework data ingestion
+- call out live migration scenario 
+- look into spectral theory
